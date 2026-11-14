@@ -13,7 +13,8 @@
   "files": [
     "MobileWarfare.js",
     "MobileWarfare.d.ts",
-    "MobileWarfare.js.map"
+    "MobileWarfare.js.map",
+    "MobileWarfare.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
